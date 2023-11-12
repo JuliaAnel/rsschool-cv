@@ -17,8 +17,6 @@ to learn new tools and technologies. Well-organized, flexible and result-driven.
 
 ## **Languages**
 
-=============
-
 - English B2
 - German A2
 
@@ -40,17 +38,11 @@ console.log(
 
 ### Epam Training Center (November 2021 - February 2022)
 
-=============
-
 ### QA For Everyone (February 2022 - June 2022)
-
-=============
 
 ### Senla Software Engineering Laboratory "Salesforce Development" course (August 2022 - December 2022)
 
 ## **Work Experience**
-
-=============
 
 ### Trainee Software Testing Engineer at EPAM Systems (January 2022 - April 2022)
 
