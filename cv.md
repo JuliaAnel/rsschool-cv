@@ -36,15 +36,15 @@ console.log(
 
 ## **Education**
 
-### Epam Training Center (November 2021 - February 2022)
+- Epam Training Center (November 2021 - February 2022)
 
-### QA For Everyone (February 2022 - June 2022)
+- QA For Everyone (February 2022 - June 2022)
 
-### Senla Software Engineering Laboratory "Salesforce Development" course (August 2022 - December 2022)
+- Senla Software Engineering Laboratory "Salesforce Development" course (August 2022 - December 2022)
 
 ## **Work Experience**
 
-### Trainee Software Testing Engineer at EPAM Systems (January 2022 - April 2022)
+Trainee Software Testing Engineer at EPAM Systems (January 2022 - April 2022)
 
 #### **Tools:**
 
